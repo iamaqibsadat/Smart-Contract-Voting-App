@@ -1,4 +1,4 @@
-# Smart Contract Voting App
+# Smart Contract Voting App by Aqib 
 
 This project implements a decentralized voting application using Ethereum smart contracts. It allows users to add candidates, cast votes, and view election results on the Ethereum blockchain.
 
@@ -91,4 +91,4 @@ console.log("Candidate 1:", candidate1);
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+```# Voting Application
