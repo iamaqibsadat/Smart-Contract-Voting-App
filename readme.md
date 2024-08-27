@@ -34,7 +34,7 @@ Before running the application, make sure you have the following installed:
 
 1. Clone the repository:
 
-git clone https://github.com/danyaljbarkhail/Smart-Contract-Voting-App
+git clone https://github.com/iamaqibsadat/Smart-Contract-Voting-App
 ```
 
 2. Install dependencies:
